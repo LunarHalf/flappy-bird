@@ -2,9 +2,6 @@
 ```markdown
 # Flappy Bird Game
 
-![Flappy Bird]("C:\Users\rohit.LAPTOP-5KRTLDPD\OneDrive\Pictures\Screenshots\Screenshot (138).png")
-
-
 ## Description
 
 Flappy Bird is a simple and addictive game where you control a bird's flight through a series of pipes. The goal is to navigate through the gaps in the pipes without colliding with them. The game becomes progressively challenging as you score more points.
@@ -65,10 +62,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Pygame Library: https://www.pygame.org/
 - Background image and game assets from: https://www.spriters-resource.com/
 
-## Screenshots
 
- ["C:\Users\rohit.LAPTOP-5KRTLDPD\OneDrive\Pictures\Screenshots\Screenshot (138).png"]
- ["C:\Users\rohit.LAPTOP-5KRTLDPD\OneDrive\Pictures\Screenshots\Screenshot (139).png"]
 
 
 ```
